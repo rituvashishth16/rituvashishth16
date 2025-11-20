@@ -24,12 +24,12 @@ Here are some ideas to get you started:-->
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sandyy404&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=sandyy404&theme=dark&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sandyy404&theme=dark&hide_border=false&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rituvashishth16&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=rituvashishth16&theme=dark&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rituvashishth16&theme=dark&hide_border=false&layout=compact)
 
 </div>
 
 ### 👁‍🗨 Visitor Count
-![](https://komarev.com/ghpvc/?username=sandyy404&color=blue&style=flat-square&label=Profile+Views)
+![](https://komarev.com/ghpvc/?username=rituvashishth16&color=blue&style=flat-square&label=Profile+Views)
 
